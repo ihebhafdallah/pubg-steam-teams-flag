@@ -1,0 +1,101 @@
+TeamNumber,TeamName,TeamShortName,ImageFileName,TeamColor
+1,Canada,CAN,CAN.png,391755ff
+2,Algeria,DZ,DZ.png,0038B8ff
+3,Finland,FIN,FIN.png,bb6600ff
+4,Denmark,DEN,DEN.png,ffd800ff
+5,Brazil,BRA,BRA.png,60642fff
+6,Germany,GER,GER.png,26420fff
+7,France,FRA,FRA.png,7dcf2fff
+8,United Kingdom,UK,UK.png,09372cff
+9,Sweden,SWE,SWE.png,1f73b9ff
+10,Norway,NOR,NOR.png,001f70ff
+11,Spain,SPA,SPA.png,a200ffff
+12,Austria,AUT,AU.png,971440ff
+13,Turkey,TUR,TR.png,ff0000ff
+14,United States,USA,USA.png,ffffffff
+15,Portugal,POR,POR.png,6f6f6fff
+16,Argentina,ARG,ARG.png,3f0000ff
+17,South Korea,KOR,KOR.png,4cb69cff
+18,Japan,JPN,JP.png,2f9761ff
+19,Australia,AUS,AUS.png,4ca9b6ff
+20,China,CHN,CN.png,860055ff
+21,Croatia,CRO,CRO.png,860055ff
+22,Greece,GR,GR.png,860055ff
+23,Ukraine,UA,UA.png,860055ff
+24,Italy,ITA,ITA.png,007FFFff
+25,Netherlands,NED,NED.png,FF4500ff
+26,Belgium,BEL,BEL.png,F9D71Cff
+27,Switzerland,SUI,SUI.png,D52B1Eff
+28,Russia,RUS,RUS.png,0039A6ff
+29,Mexico,MEX,MEX.png,006847ff
+30,India,IND,IND.png,FF9933ff
+31,South Africa,RSA,RSA.png,007847ff
+32,New Zealand,NZL,NZL.png,000000ff
+33,Egypt,EGY,EGY.png,CE1126ff
+34,Nigeria,NGA,NGA.png,008751ff
+35,Kenya,KEN,KEN.png,006600ff
+36,Morocco,MAR,MAR.png,C1272Dff
+37,Thailand,THA,THA.png,00247Dff
+38,Philippines,PHI,PHI.png,0038A8ff
+39,Vietnam,VIE,VIE.png,DA251Dff
+40,Iran,IRN,IRN.png,239F40ff
+41,Saudi Arabia,KSA,KSA.png,006C35ff
+42,UAE,UAE,UAE.png,007C70ff
+43,Qatar,QAT,QAT.png,8C001Aff
+44,Chile,CHI,CHI.png,FF0000ff
+45,Peru,PER,PER.png,D91023ff
+46,Colombia,COL,COL.png,FFD700ff
+47,Uruguay,URU,URU.png,0038A8ff
+48,Venezuela,VEN,VEN.png,8B0046ff
+49,Ecuador,ECU,ECU.png,FFD100ff
+50,Paraguay,PAR,PAR.png,002B7Fff
+51,Bolivia,BOL,BOL.png,007E3Aff
+52,Panama,PAN,PAN.png,FF0000ff
+53,Tunisia,TN,TN.png,002B7Fff
+54,Cuba,CUB,CUB.png,002A8Fff
+55,Jamaica,JAM,JAM.png,008000ff
+56,Honduras,HON,HON.png,0073CFff
+57,El Salvador,SLV,SLV.png,0047ABff
+58,Guatemala,GUA,GUA.png,4997D0ff
+59,Dominican Republic,DOM,DOM.png,002D62ff
+60,Haiti,HAI,HAI.png,00209Fff
+61,Iceland,ISL,ISL.png,003897ff
+62,Slovenia,SVN,SVN.png,0C4076ff
+63,Slovakia,SVK,SVK.png,005BACff
+64,Hungary,HUN,HUN.png,477050ff
+65,Bulgaria,BUL,BUL.png,00966Eff
+66,Romania,ROU,ROU.png,002B7Fff
+67,Serbia,SRB,SRB.png,C6363Cff
+68,Montenegro,MNE,MNE.png,9E1B34ff
+69,North Macedonia,MKD,MKD.png,FF0000ff
+70,Albania,ALB,ALB.png,EE1C25ff
+71,Georgia,GEO,GEO.png,FFFFFFff
+72,Armenia,ARM,ARM.png,FF0000ff
+73,Azerbaijan,AZE,AZE.png,0093DDff
+74,Kazakhstan,KAZ,KAZ.png,00A86Bff
+75,Uzbekistan,UZB,UZB.png,009141ff
+76,Turkmenistan,TKM,TKM.png,01796Eff
+77,Kyrgyzstan,KGZ,KGZ.png,DA291Cff
+78,Tajikistan,TJK,TJK.png,006600ff
+79,Nepal,NEP,NEP.png,DC143Cff
+80,Bangladesh,BAN,BAN.png,006A4Eff
+81,Sri Lanka,SRI,SRI.png,8D2026ff
+82,Pakistan,PAK,PAK.png,006600ff
+83,Afghanistan,AFG,AFG.png,003893ff
+84,Lebanon,LEB,LEB.png,ED1C24ff
+85,Syria,SYR,SYR.png,CE1126ff
+86,Jordan,JOR,JOR.png,007A3Dff
+87,Iraq,IRQ,IRQ.png,CE1126ff
+88,Kuwait,KUW,KUW.png,007A5Eff
+89,Bahrain,BAH,BAH.png,ED1C24ff
+90,Oman,OMA,OMA.png,D72828ff
+91,Yemen,YEM,YEM.png,FF0000ff
+92,Palestine,PAL,PAL.png,008C8Cff
+93,Malaysia,MAS,MAS.png,010066ff
+94,Singapore,SIN,SIN.png,EF3340ff
+95,Indonesia,INA,INA.png,CE1126ff
+96,Cambodia,CAM,CAM.png,003366ff
+97,Laos,LAO,LAO.png,002868ff
+98,Myanmar,MYA,MYA.png,FFCC00ff
+99,Brunei,BRU,BRU.png,FFD100ff
+100,Maldives,MDV,MDV.png,D21034ff
